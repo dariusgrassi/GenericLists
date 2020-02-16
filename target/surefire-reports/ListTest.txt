@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: ListTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.048 s <<< FAILURE! - in ListTest
-test  Time elapsed: 0.024 s  <<< FAILURE!
-org.opentest4j.AssertionFailedError: Not yet implemented
-	at ListTest.test(ListTest.java:10)
-
